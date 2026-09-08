@@ -20,8 +20,10 @@ In Verbindung mit FS25 Lights & Symbol HUD können die aktuellen Verschleißzust
 
 
 ""Wichtiger Hinweis.. Da ich die Mod mit KI Unterstützung erstellt habe, wurde ich drauf Aufmerksam gemacht, das Shader Dateinamen, von einem anderen Mod mit den selben Dateinamen angelegt sein sollen""
-nehme ich zur Kenntnis, weise aber darauf hin, das es für die Shaderanzeige nur eine funktionierende Version gibt. Das ist wie eine Mathematische Funktion, die halt nur auf einer einzigen Weise zur Lösung führt.
-Es ist auch kein Diebstahl oder beabsichtigter Diebstahl da LUA code free ist. ich werde aber bei gelegendheit die shader umgestallten sofern es möglich ist.
+nehme ich zur Kenntnis, weise aber darauf hin, das es nicht beabsichtigt ist, andere Dateien zu verwenden. Da die KI das Web als "Problemlösung" durchforstet, ist es schlicht kaum nachzuvollziehen, was oder wie die Ki
+zu einer Lösung nimmt und kommt. Shader sind aber wie eine Mathematische Funktion, die meist auf einer einzigen Weise zur Lösung führt, oder nur sehr wenig Spielraum lässt. Ich werde das Checken und ggf ändern.
+
+solang findet kein Download mehr statt
 
 https://farming-simulator.com/mod.php?lang=de&country=de&mod_id=321793
 
