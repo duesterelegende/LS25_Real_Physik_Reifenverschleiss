@@ -19,6 +19,11 @@ Als drittes gibt eines einen Malus auf die maximale Geschwindigkeit bei Bandfahr
 In Verbindung mit FS25 Lights & Symbol HUD können die aktuellen Verschleißzustände direkt im HUD dargestellt werden. Rad-, Fahrwerks- und Anhängerzustände werden dabei getrennt visualisiert. Auch die entsprechenden Laufrollen werden als Kombisymbole angezeigt. Es wird daher empfohlen die Lights and Symbol HUD mit zu installieren. Wem es nicht gefällt, kann sie in den Settings auch komplett ausblenden.
 
 
+""Wichtiger Hinweis.. Da ich die Mod mit KI Unterstützung erstellt habe, wurde ich drauf Aufmerksam gemacht, das Shader Dateinamen, von einem anderen Mod mit den selben Dateinamen angelegt sein sollen""
+nehme ich zur Kenntnis, weise aber darauf hin, das es für die Shaderanzeige nur eine funktionierende Version gibt. Das ist wie eine Mathematische Funktion, die halt nur auf einer einzigen Weise zur Lösung führt.
+Es ist auch kein Diebstahl oder beabsichtigter Diebstahl da LUA code free ist. ich werde aber bei gelegendheit die Dateinamen ändern.
+
+
 
 keine Abnutzung des Reifen
 <p align="center">
