@@ -18,8 +18,32 @@ Als drittes gibt eines einen Malus auf die maximale Geschwindigkeit bei Bandfahr
 
 In Verbindung mit FS25 Lights & Symbol HUD können die aktuellen Verschleißzustände direkt im HUD dargestellt werden. Rad-, Fahrwerks- und Anhängerzustände werden dabei getrennt visualisiert. Auch die entsprechenden Laufrollen werden als Kombisymbole angezeigt. Es wird daher empfohlen die Lights and Symbol HUD mit zu installieren. Wem es nicht gefällt, kann sie in den Settings auch komplett ausblenden.
 
-reifenverschleiss1.png
 
+
+keine Abnutzung des Reifen
+<p align="center">
+  <img src="Reifenverschleiss0.png" alt="Mod Icon">
+</p> 
+Voll abgenutzter Reifen
+<p align="center">
+  <img src="Reifenverschleiss1.png" alt="Mod Icon">
+</p>
+nicht abgenutztes Kettenfahrwerk
+<p align="center">
+  <img src="Reifenverschleiss3.png" alt="Mod Icon">
+</p>
+Voll abgenutztes Kettenfahrwerk
+<p align="center">
+  <img src="Reifenverschleiss2.png" alt="Mod Icon">
+</p>
+nicht abgenutztes Bandfahrwerk
+<p align="center">
+  <img src="Reifenverschleiss5.png" alt="Mod Icon">
+</p>
+Voll abgenutztes Bandfahrwerk
+<p align="center">
+  <img src="Reifenverschleiss4.png" alt="Mod Icon">
+</p>
 Release-Version: 1.2.0
 Autor: duestereLegende
 
