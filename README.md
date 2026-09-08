@@ -44,6 +44,11 @@ Voll abgenutztes Bandfahrwerk
 <p align="center">
   <img src="Reifenverschleiss4.png" alt="Mod Icon">
 </p>
+
+<p align="center">
+  <img src="HUD4.png" alt="Mod Icon">
+</p> 
+
 Release-Version: 1.2.0
 Autor: duestereLegende
 
