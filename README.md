@@ -30,6 +30,8 @@ Das liegt auch darin begründet, dass bestimmte Funktionen und Daten innerhalb d
 <br>
 Darüber hinaus nutze ich den Shader nicht nur für den Reifenverschleiß, sondern habe von Anfang an auch eine Verschleißdarstellung für Gummibänder und Metallketten umgesetzt. Diese zusätzlichen Funktionen und der dazugehörige Strukturaufbau wurden für meine Mod entsprechend eigenständig erweitert bzw. neu aufgebaut. Dadurch ergeben sich weitere sichtbare und technische Abweichungen gegenüber UyT da dies dort nicht umgesetzt wurde, oder geplant war. Ich denke das es damit jetzt karer sein dürfte. 
 
+Anzeige MOD FS25_Symbol_Lights_HUD
+https://github.com/duesterelegende/LS25_Lights_Symbol_HUD/releases/tag/LS25LightSymbolHUD
 
 
 keine Abnutzung des Reifen
