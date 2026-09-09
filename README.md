@@ -20,15 +20,15 @@ In Verbindung mit FS25 Lights & Symbol HUD können die aktuellen Verschleißzust
 
 <b>Wichtiger Hinweis</b>
 <br>
-Durch einen unbeabsichtigen Fehler über die verwendete KI, wurden aus der UYT Mod, Dateinamen übernommen wurden, und es wurden Dateien in meine Mod unbemerkt integriet worden. Nach Hinweisen darüber, habe ich nun alles behoben und Fremddateien entfernt. Es ist nun bereinigt, hätte aber nicht ungeprüft pasieren dürfen. Fall ist damit erledigt. 
+Durch einen unbeabsichtigen Fehler über die verwendete KI, wurden aus der UYT Mod, Dateinamen übernommen wurden, und es wurden Dateien in meine Mod unbemerkt integriet. Nach Hinweisen darüber, habe ich nun alles behoben und die Fremddateien entfernt. Es ist nun bereinigt, hätte aber nicht ungeprüft pasieren dürfen. Fall ist damit erledigt. 
 <br>
-Es bleibt aber weiterhin zu sagen:
+Aber das noch mal klarzustellen, und zusätzliche Verwirrung entgegen zu wirken:
 
-<br>Ich habe die entsprechenden Shader-Dateien nochmals selbst neu erstellt. Fakt bleibt aber auch, dass sowohl die UyT-Mod als auch meine Mod zu etwa 98 % auf demselben Shader basieren, der von GIANTS im Spiel verwendet wird. Beide Mods erstellen also keinen vollständig neuen Shader, der den GIANTS-Shader komplett ersetzen würde. Daraus ergibt sich zwangsläufig eine sehr hohe Ähnlichkeit der beiden Shaderdateien.
+<br>Ich habe die entsprechenden Shader-Dateien nochmals selbst neu erstellt. Die UyT-Mod als auch meine Mod basieren zu etwa 98 % auf demselben Shader, der von GIANTS im Spiel verwendet wird. Beide Mods erstellen also keinen vollständig neuen Shader, der den GIANTS-Shader komplett ersetzen würde sondern nutzen den bereits vorhandenen. Daraus ergibt sich zwangsläufig eine sehr hohe Ähnlichkeit der beiden Shaderdateien.
 <br>
 Das liegt auch darin begründet, dass bestimmte Funktionen und Daten innerhalb des vorhandenen GIANTS-Shaders auf vorgegebenen Strukturen und Schnittstellen aufbauen. Vereinfacht kann man sich das wie eine mathematische Formel vorstellen welche dich zur richtigen Lösung führt, und zwar nur diese. Wenn dieselben technischen Vorgaben verarbeitet werden müssen, ähneln sich zwangsläufig auch Teile des dafür notwendigen Aufbaus.
 <br>
-Darüber hinaus nutze ich den Shader nicht nur für den Reifenverschleiß, sondern habe von Anfang an auch eine Verschleißdarstellung für Gummibänder und Metallketten umgesetzt. Diese zusätzlichen Funktionen und der dazugehörige Strukturaufbau wurden für meine Mod entsprechend eigenständig erweitert bzw. neu aufgebaut. Dadurch ergeben sich weitere sichtbare und technische Abweichungen gegenüber UyT da dies dort nicht umgesetzt wurde, oder geplant war.
+Darüber hinaus nutze ich den Shader nicht nur für den Reifenverschleiß, sondern habe von Anfang an auch eine Verschleißdarstellung für Gummibänder und Metallketten umgesetzt. Diese zusätzlichen Funktionen und der dazugehörige Strukturaufbau wurden für meine Mod entsprechend eigenständig erweitert bzw. neu aufgebaut. Dadurch ergeben sich weitere sichtbare und technische Abweichungen gegenüber UyT da dies dort nicht umgesetzt wurde, oder geplant war. Ich denke das es damit jetzt karer sein dürfte. 
 
 
 
