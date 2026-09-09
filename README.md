@@ -18,14 +18,17 @@ Als drittes gibt eines einen Malus auf die maximale Geschwindigkeit bei Bandfahr
 
 In Verbindung mit FS25 Lights & Symbol HUD können die aktuellen Verschleißzustände direkt im HUD dargestellt werden. Rad-, Fahrwerks- und Anhängerzustände werden dabei getrennt visualisiert. Auch die entsprechenden Laufrollen werden als Kombisymbole angezeigt. Es wird daher empfohlen die Lights and Symbol HUD mit zu installieren. Wem es nicht gefällt, kann sie in den Settings auch komplett ausblenden.
 
+<b>Wichtiger Hinweis</b>
+<br>
+Durch einen unbeabsichtigen Fehler über die verwendete KI, wurden aus der UYT Mod, Dateinamen übernommen wurden, und es wurden Dateien in meine Mod unbemerkt integriet worden. Nach Hinweisen darüber, habe ich nun alles behoben und Fremddateien entfernt. Es ist nun bereinigt, hätte aber nicht ungeprüft pasieren dürfen. Fall ist damit erledigt. 
+<br>
+Es bleibt aber weiterhin zu sagen:
 
-""Wichtiger Hinweis.. Da ich die Mod mit KI Unterstützung erstellt habe, wurde ich drauf Aufmerksam gemacht, das Shader Dateinamen, von einem anderen Mod mit den selben Dateinamen angelegt sein sollen""
-nehme ich zur Kenntnis, weise aber darauf hin, das es nicht beabsichtigt ist, andere Dateien zu verwenden. Da die KI das Web als "Problemlösung" durchforstet, ist es schlicht kaum nachzuvollziehen, was oder wie die Ki
-zu einer Lösung nimmt und kommt. Shader sind aber wie eine Mathematische Funktion, die meist auf einer einzigen Weise zur Lösung führt, oder nur sehr wenig Spielraum lässt. Ich werde das Checken und ggf ändern.
-
-solang findet kein Download mehr statt
-
-https://farming-simulator.com/mod.php?lang=de&country=de&mod_id=321793
+<br>Ich habe die entsprechenden Shader-Dateien nochmals selbst neu erstellt. Fakt bleibt aber auch, dass sowohl die UyT-Mod als auch meine Mod zu etwa 98 % auf demselben Shader basieren, der von GIANTS im Spiel verwendet wird. Beide Mods erstellen also keinen vollständig neuen Shader, der den GIANTS-Shader komplett ersetzen würde. Daraus ergibt sich zwangsläufig eine sehr hohe Ähnlichkeit der beiden Shaderdateien.
+<br>
+Das liegt auch darin begründet, dass bestimmte Funktionen und Daten innerhalb des vorhandenen GIANTS-Shaders auf vorgegebenen Strukturen und Schnittstellen aufbauen. Vereinfacht kann man sich das wie eine mathematische Formel vorstellen welche dich zur richtigen Lösung führt, und zwar nur diese. Wenn dieselben technischen Vorgaben verarbeitet werden müssen, ähneln sich zwangsläufig auch Teile des dafür notwendigen Aufbaus.
+<br>
+Darüber hinaus nutze ich den Shader nicht nur für den Reifenverschleiß, sondern habe von Anfang an auch eine Verschleißdarstellung für Gummibänder und Metallketten umgesetzt. Diese zusätzlichen Funktionen und der dazugehörige Strukturaufbau wurden für meine Mod entsprechend eigenständig erweitert bzw. neu aufgebaut. Dadurch ergeben sich weitere sichtbare und technische Abweichungen gegenüber UyT da dies dort nicht umgesetzt wurde, oder geplant war.
 
 
 
