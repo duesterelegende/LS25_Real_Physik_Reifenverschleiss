@@ -52,11 +52,11 @@ Voll abgenutztes Kettenfahrwerk
 </p>
 nicht abgenutztes Bandfahrwerk
 <p align="center">
-  <img src="HUD6.png" alt="Mod Icon">
+  <img src="Reifenverschleiss3.png" alt="Mod Icon">
 </p>
 Voll abgenutztes Bandfahrwerk
 <p align="center">
-  <img src="Reifenverschleiss4.png" alt="Mod Icon">
+  <img src="HUD6.png" alt="Mod Icon">
 </p>
 
 <p align="center">
