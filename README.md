@@ -20,7 +20,7 @@ In Verbindung mit FS25 Lights & Symbol HUD können die aktuellen Verschleißzust
 
 <b>Wichtiger Hinweis</b>
 <br>
-Durch einen unbeabsichtigen Fehler über die verwendete KI, wurden aus der UYT Mod, Dateinamen übernommen wurden, und es wurden Dateien in meine Mod unbemerkt integriet. Nach Hinweisen darüber, habe ich nun alles behoben und die Fremddateien entfernt. Es ist nun bereinigt, hätte aber nicht ungeprüft pasieren dürfen. Fall ist damit erledigt. 
+Durch einen unbeabsichtigen Fehler über die verwendete KI, wurden aus der UYT Mod, Dateinamen übernommen und es wurden Dateien in meine Mod unbemerkt integriet. Nach Hinweisen darüber, habe ich nun alles behoben und die Fremddateien entfernt. Es ist nun bereinigt, hätte aber nicht ungeprüft pasieren dürfen. Fall ist damit erledigt. 
 <br>
 Aber das noch mal klarzustellen, und zusätzliche Verwirrung entgegen zu wirken:
 
