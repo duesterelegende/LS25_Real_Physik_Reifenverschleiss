@@ -1,7 +1,8 @@
 # LS25_Real_Physik_Reifenverschleiss
 
-
 erweitert den Farming Simulator 25 um ein eigenständiges und deutlich detaillierteres Verschleißsystem für Reifen und Bandlaufwrke und Kettenfahrwerke.
+<br>
+Die nächste Entwicklungsstufe 2.0 !
 
 Reifen und Raupenfahrwerke Kettenfahrwerke nutzen sich abhängig von der tatsächlich zurückgelegten Strecke, der Belastung durch Schlupf und diverse anderer Faktoren ab. Es spielt jetzt eine Rolle wie dein Fahrwrhalten ist, auf welchen Boden du unterwegs bist, welche Wettereinflüsse es gibt, welches Gewicht du bewegst und wie die dynamische Lastverteilung auf deine Räder oder Fahrwerke wirkt. Der Verschleiß wird individuell für jedes Fahrzeug und jedes Rad/Fahrwerk erfasst und gespeichert und ist damit unabhängig vom normalen GIANTS-Fahrzeugverschleiß. Das gilt für alle in deinem Hofbesitz befindlichen Fahrzeuge. Gekauft, gemietet, geleast. Ki Traffic Fahrzeuge, oder von anderen Höfen, oder Maschinen und Geräte die für eine Mission "gemietet" wurden werden nicht erfasst.
 
