@@ -34,6 +34,11 @@ Darüber hinaus nutze ich den Shader nicht nur für den Reifenverschleiß, sonde
 Anzeige MOD FS25_Symbol_Lights_HUD
 https://github.com/duesterelegende/LS25_Lights_Symbol_HUD/releases/tag/LS25LightSymbolHUD
 
+derzeit nicht inkompatibel:
+
+- Johne Deere 7R MOD 
+- Bagger Volvo 250DL und 380DL - Original, derzeit Probleme beim Shaderaufbau
+
 
 keine Abnutzung des Reifen
 <p align="center">
