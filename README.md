@@ -34,6 +34,13 @@ Darüber hinaus nutze ich den Shader nicht nur für den Reifenverschleiß, sonde
 Anzeige MOD FS25_Symbol_Lights_HUD
 https://github.com/duesterelegende/LS25_Lights_Symbol_HUD/releases/tag/LS25LightSymbolHUD
 
+4.10.26
+zusammenarbeit mit der schlammphysik mod
+in Abstimmung
+- Api einbindung und Kompatibilitätsupdate
+- künftig einheitlicher Modname Datei "Reifenverschleiss.zip" nur noch interne Versionsnummern in desc
+- Sprachpakete Deu/Eng/ESP/Fr/Ru auf l10n
+
 derzeit nicht inkompatibel:
 
 - Johne Deere 7R MOD 
