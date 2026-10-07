@@ -46,6 +46,8 @@ derzeit nicht inkompatibel:
 - Johne Deere 7R MOD 
 - Bagger Volvo 250DL und 380DL - Original, derzeit Probleme beim Shaderaufbau
 
+- Blocked user : Cobra Modding and all his mods
+
 
 keine Abnutzung des Reifen
 <p align="center">
